@@ -1,0 +1,2 @@
+proxies:
+  - {name: wxmbmx-hk, server: wxmbmx-hk.wxmbmx.com, port: 49360, client-fingerprint: chrome, type: vless, uuid: 89a79b3b-7bbe-466e-dfc5-0f3c485cbb4a, tls: true, tfo: false, servername: wxmbmx-hk.wxmbmx.com, skip-cert-verify: false, udp: true}
